@@ -1,0 +1,468 @@
+zzd: please select cards from:
+zzd: [1]:Piloted Shredder, [2]:Swipe, [3]: Innervate
+zzd: Select the cards you dont want (e.g. 1,3):1 2 
+zzd: Now you will start with cards: Emperor Thaurissan, Azure Drake, Innervate
+
+smi: please select cards from:
+smi: [1]:Dr. Boom, [2]:Keeper of the Grove, [3]: Savage Roar, [4]: Shade of Naxxramas
+smi: Select the cards you dont want (e.g. 1,3):1 2 3 
+smi: Now you will start with cards: Keeper of the Grove, Wild Growth, Druid of the Claw, Shade of Naxxramas
+
+zzd: You have drew card Innervate
+
+zzd: Its your turn!
+zzd: You have 1/1 mana, 30 health, 0 armor, 0 attack.
+zzd: Your component has 0 mana, 30 health, 0 armor, 5 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Azure Drake(5) [3]Innervate(0) [4]Innervate(0) 
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+
+
+***********************************************************************************************
+zzd: please input command:PC 2 3 4
+zzd: You have drew card Sludge Belcher
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+zzd: You have 0/1 mana, 30 health, 0 armor, 0 attack.
+zzd: Your component has 0 mana, 30 health, 0 armor, 5 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) 
+
+zzd: please input command:ET
+smi: You have drew card Piloted Shredder
+
+smi: Its your turn!
+smi: You have 1/1 mana, 30 health, 0 armor, 0 attack.
+smi: Your component has 1 mana, 30 health, 0 armor, 2 cards in hand.
+smi: You have [1]Keeper of the Grove(4) [2]Wild Growth(2) [3]Druid of the Claw(5) [4]Shade of Naxxramas(3) [5]The Coin(0) [6]Piloted Shredder(4) 
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+*************************************************************************************************
+
+
+***********************************************************************************************
+smi: please input command:PC 2 5
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+*************************************************************************************************
+
+
+***********************************************************************************************
+smi: You have 0/2 mana, 30 health, 0 armor, 0 attack.
+smi: Your component has 1 mana, 30 health, 0 armor, 2 cards in hand.
+smi: You have [1]Keeper of the Grove(4) [2]Druid of the Claw(5) [3]Shade of Naxxramas(3) [4]Piloted Shredder(4) 
+
+smi: please input command:ET
+zzd: You have drew card Ancient of Lore
+
+zzd: Its your turn!
+zzd: You have 2/2 mana, 30 health, 0 armor, 0 attack.
+zzd: Your component has 2 mana, 30 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) 
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+zzd: please input command:A 1 0
+0
+-4
+zzzazzz
+zzd: You have 2/2 mana, 30 health, 0 armor, 0 attack.
+zzd: Your component has 2 mana, 26 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) 
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+
+zzd: please input command:H
+zzd: You have 0/2 mana, 30 health, 1 armor, 1 attack.
+zzd: Your component has 2 mana, 26 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) 
+
+zzd: please input command:A 0 0
+0
+-1
+zzzazzz
+zzd: You have 0/2 mana, 30 health, 1 armor, 1 attack.
+zzd: Your component has 2 mana, 25 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) 
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+
+zzd: please input command:ET
+smi: You have drew card Dr. Boom
+
+smi: Its your turn!
+smi: You have 3/3 mana, 25 health, 0 armor, 0 attack.
+smi: Your component has 2 mana, 30 health, 1 armor, 3 cards in hand.
+smi: You have [1]Keeper of the Grove(4) [2]Druid of the Claw(5) [3]Shade of Naxxramas(3) [4]Piloted Shredder(4) [5]Dr. Boom(7) 
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+*************************************************************************************************
+
+
+***********************************************************************************************
+smi: please input command:PC 3
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+*************************************************************************************************
+[1]   Shade of Naxxramas    
+          2 2/2          
+***********************************************************************************************
+smi: You have 0/3 mana, 25 health, 0 armor, 0 attack.
+smi: Your component has 2 mana, 30 health, 1 armor, 3 cards in hand.
+smi: You have [1]Keeper of the Grove(4) [2]Druid of the Claw(5) [3]Piloted Shredder(4) [4]Dr. Boom(7) 
+
+smi: please input command:ET
+zzd: You have drew card Wrath
+
+zzd: Its your turn!
+zzd: You have 3/3 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 3 mana, 25 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Wrath(2) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]   Shade of Naxxramas    
+          2 2/2          
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+zzd: please input command:H
+zzd: You have 1/3 mana, 30 health, 2 armor, 1 attack.
+zzd: Your component has 3 mana, 25 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Wrath(2) 
+
+zzd: please input command:A 0 0
+zzd: You have 1/3 mana, 30 health, 2 armor, 1 attack.
+zzd: Your component has 3 mana, 24 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Wrath(2) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]   Shade of Naxxramas    
+          2 2/2          
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+
+zzd: please input command:A 1 0
+0
+-4
+zzzazzz
+zzd: You have 1/3 mana, 30 health, 2 armor, 1 attack.
+zzd: Your component has 3 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Wrath(2) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]   Shade of Naxxramas    
+          2 2/2          
+*************************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+***********************************************************************************************
+
+zzd: please input command:ET
+smi: You have drew card Azure Drake
+
+smi: Its your turn!
+smi: You have 4/4 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 3 mana, 30 health, 2 armor, 4 cards in hand.
+smi: You have [1]Keeper of the Grove(4) [2]Druid of the Claw(5) [3]Piloted Shredder(4) [4]Dr. Boom(7) [5]Azure Drake(5) 
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 4/4          
+*************************************************************************************************
+[1]   Shade of Naxxramas    
+          3 3/3          
+***********************************************************************************************
+smi: please input command:PC 1
+smi: Choose One: [1]Deal 2 damage; or [2]Silence a minion: 1
+smi: Select a target(e.g. U 1): U 1
+smi: Below is the board:
+***********************************************************************************************
+[1]       Azure Drake       
+          4 2/4          
+*************************************************************************************************
+[1]   Keeper of the Grove   [2]   Shade of Naxxramas    
+          2 4/4                    3 3/3          
+***********************************************************************************************
+smi: You have 0/4 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 3 mana, 30 health, 2 armor, 4 cards in hand.
+smi: You have [1]Druid of the Claw(5) [2]Piloted Shredder(4) [3]Dr. Boom(7) [4]Azure Drake(5) 
+
+smi: please input command:A 2 1
+smi: You have 0/4 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 3 mana, 30 health, 2 armor, 4 cards in hand.
+smi: You have [1]Druid of the Claw(5) [2]Piloted Shredder(4) [3]Dr. Boom(7) [4]Azure Drake(5) 
+smi: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]   Keeper of the Grove   
+          2 4/4          
+***********************************************************************************************
+
+smi: please input command:ET
+zzd: You have drew card Force of Nature
+
+zzd: Its your turn!
+zzd: You have 4/4 mana, 30 health, 2 armor, 0 attack.
+zzd: Your component has 4 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Wrath(2) [5]Force of Nature(6) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]   Keeper of the Grove   
+          2 4/4          
+*************************************************************************************************
+
+
+***********************************************************************************************
+zzd: please input command:PC 4
+zzd: Choose One: [1]Deal 3 damage to a minion; or [2]1 damage and draw a card: 1
+zzd: Select a target(e.g. U 1): U 1
+zzd: Below is the board:
+***********************************************************************************************
+[1]   Keeper of the Grove   
+          2 1/4          
+*************************************************************************************************
+
+
+***********************************************************************************************
+zzd: You have 2/4 mana, 30 health, 2 armor, 0 attack.
+zzd: Your component has 4 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Force of Nature(6) 
+
+zzd: please input command:H
+zzd: You have 0/4 mana, 30 health, 3 armor, 1 attack.
+zzd: Your component has 4 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Force of Nature(6) 
+
+zzd: please input command:A 0 1
+3
+-2
+zzzazzz
+zzd: You have 0/4 mana, 30 health, 1 armor, 1 attack.
+zzd: Your component has 4 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Force of Nature(6) 
+zzd: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+
+
+***********************************************************************************************
+
+zzd: please input command:ET
+smi: You have drew card Swipe
+
+smi: Its your turn!
+smi: You have 5/5 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 4 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Druid of the Claw(5) [2]Piloted Shredder(4) [3]Dr. Boom(7) [4]Azure Drake(5) [5]Swipe(4) 
+smi: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+
+
+***********************************************************************************************
+smi: please input command:PC 1
+smi: Choose One: [1]Charge; or [2]+2 Health and Taunt: 2
+smi: Below is the board:
+***********************************************************************************************
+
+
+*************************************************************************************************
+[1]  Druid of the Claw(T)   
+          4 6/6          
+***********************************************************************************************
+smi: You have 0/5 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 4 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Piloted Shredder(4) [2]Dr. Boom(7) [3]Azure Drake(5) [4]Swipe(4) 
+
+smi: please input command:ET
+zzd: You have drew card Living Roots
+
+zzd: Its your turn!
+zzd: You have 5/5 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 5 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Sludge Belcher(5) [3]Ancient of Lore(7) [4]Force of Nature(6) [5]Living Roots(1) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]  Druid of the Claw(T)   
+          4 6/6          
+*************************************************************************************************
+
+
+***********************************************************************************************
+zzd: please input command:PC 2
+zzd: Below is the board:
+***********************************************************************************************
+[1]  Druid of the Claw(T)   
+          4 6/6          
+*************************************************************************************************
+[1]    Sludge Belcher(T)    
+          3 5/5          
+***********************************************************************************************
+zzd: You have 0/5 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 5 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Ancient of Lore(7) [3]Force of Nature(6) [4]Living Roots(1) 
+
+zzd: please input command:ET
+smi: You have drew card Wrath
+
+smi: Its your turn!
+smi: You have 6/6 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 5 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Piloted Shredder(4) [2]Dr. Boom(7) [3]Azure Drake(5) [4]Swipe(4) [5]Wrath(2) 
+smi: Below is the board:
+***********************************************************************************************
+[1]    Sludge Belcher(T)    
+          3 5/5          
+*************************************************************************************************
+[1]  Druid of the Claw(T)   
+          4 6/6          
+***********************************************************************************************
+smi: please input command:PC 1 5
+smi: Choose One: [1]Deal 3 damage to a minion; or [2]1 damage and draw a card: 2
+smi: Select a target(e.g. U 1): U 1
+smi: You have drew card Savage Roar
+smi: Below is the board:
+***********************************************************************************************
+[1]    Sludge Belcher(T)    
+          3 4/5          
+*************************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 6/6          
+***********************************************************************************************
+smi: You have 0/6 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 5 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Dr. Boom(7) [2]Azure Drake(5) [3]Swipe(4) [4]Savage Roar(3) 
+
+smi: please input command:A 2 1
+smi: You have 0/6 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 5 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Dr. Boom(7) [2]Azure Drake(5) [3]Swipe(4) [4]Savage Roar(3) 
+smi: Below is the board:
+***********************************************************************************************
+[1]        Slime(T)         
+          1 2/2          
+*************************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+***********************************************************************************************
+
+smi: please input command:ET
+zzd: You have drew card Big Game Hunter
+
+zzd: Its your turn!
+zzd: You have 6/6 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 6 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Emperor Thaurissan(6) [2]Ancient of Lore(7) [3]Force of Nature(6) [4]Living Roots(1) [5]Big Game Hunter(3) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+*************************************************************************************************
+[1]        Slime(T)         
+          1 2/2          
+***********************************************************************************************
+zzd: please input command:PC 1
+zzd: Below is the board:
+***********************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+*************************************************************************************************
+[1]   Emperor Thaurissan    [2]        Slime(T)         
+          5 5/5                    1 2/2          
+***********************************************************************************************
+zzd: You have 0/6 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 6 mana, 20 health, 0 armor, 4 cards in hand.
+zzd: You have [1]Ancient of Lore(7) [2]Force of Nature(6) [3]Living Roots(1) [4]Big Game Hunter(3) 
+
+zzd: please input command:ET
+smi: You have drew card Ancient of Lore
+
+smi: Its your turn!
+smi: You have 7/7 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 6 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Dr. Boom(7) [2]Azure Drake(5) [3]Swipe(4) [4]Savage Roar(3) [5]Ancient of Lore(6) 
+smi: Below is the board:
+***********************************************************************************************
+[1]   Emperor Thaurissan    [2]        Slime(T)         
+          5 5/5                    1 2/2          
+*************************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+***********************************************************************************************
+smi: please input command:PS
+smi: You have 7/7 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 6 mana, 30 health, 1 armor, 4 cards in hand.
+smi: You have [1]Dr. Boom(7) [2]Azure Drake(5) [3]Swipe(4) [4]Savage Roar(3) [5]Ancient of Lore(6) 
+
+smi: please input command:ET
+zzd: You have drew card Swipe
+
+zzd: Its your turn!
+zzd: You have 7/7 mana, 30 health, 1 armor, 0 attack.
+zzd: Your component has 7 mana, 20 health, 0 armor, 5 cards in hand.
+zzd: You have [1]Ancient of Lore(6) [2]Force of Nature(5) [3]Living Roots(0) [4]Big Game Hunter(2) [5]Swipe(4) 
+zzd: Below is the board:
+***********************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+*************************************************************************************************
+[1]   Emperor Thaurissan    [2]        Slime(T)         
+          5 5/5                    1 2/2          
+***********************************************************************************************
+zzd: please input command:ET
+smi: You have drew card Wild Growth
+
+smi: Its your turn!
+smi: You have 8/8 mana, 20 health, 0 armor, 0 attack.
+smi: Your component has 7 mana, 30 health, 1 armor, 5 cards in hand.
+smi: You have [1]Dr. Boom(7) [2]Azure Drake(5) [3]Swipe(3) [4]Savage Roar(3) [5]Ancient of Lore(5) [6]Wild Growth(2) 
+smi: Below is the board:
+***********************************************************************************************
+[1]   Emperor Thaurissan    [2]        Slime(T)         
+          5 5/5                    1 2/2          
+*************************************************************************************************
+[1]    Piloted Shredder     [2]  Druid of the Claw(T)   
+          4 3/3                    4 3/6          
+***********************************************************************************************

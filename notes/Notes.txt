@@ -1,0 +1,18 @@
+
+3. cmd容错
+6. kill more than one at a time
+8. print nicely
+9. after modify health, print status
+
+
+
+ToDo:
+1.Piloted Shredder'
+2. delete tasks if finished
+3. playcards can only play cards in reverse order
+4. a better Brann implementation
+5. Dire Wolf Alpha - AURA
+- buff env
+6. Dark Peddler
+7. Knife
+- trigger event whenver a minion is add to board
